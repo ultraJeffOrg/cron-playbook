@@ -9,7 +9,11 @@ metadata:
   annotations:
     backstage.io/techdocs-ref: dir:.
     github.com/project-slug: ultraJeffOrg/cron-playbook
-    che.eclipse.org/che-server: https://devspaces.apps.tallgeese.ultra.lab
+  links:
+    - url: https://devspaces.apps.tallgeese.ultra.lab/#https://github.com/ultraJeffOrg/cron-playbook
+      title: Open in Dev Spaces
+      icon: catalog
+      type: ide
 spec:
   type: playbook-project
   system: system:default/utilities
