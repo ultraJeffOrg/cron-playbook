@@ -1,0 +1,4 @@
+site_name: Cron Playbook
+site_description: Ansible playbook project for scheduled automation tasks
+nav:
+  - Home: index.md
