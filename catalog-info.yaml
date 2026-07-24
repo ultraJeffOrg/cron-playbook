@@ -9,6 +9,7 @@ metadata:
   annotations:
     backstage.io/techdocs-ref: dir:.
     github.com/project-slug: ultraJeffOrg/cron-playbook
+    che.eclipse.org/che-server: https://devspaces.apps.tallgeese.ultra.lab
 spec:
   type: playbook-project
   system: system:default/utilities
