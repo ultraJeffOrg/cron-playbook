@@ -1,0 +1,15 @@
+---
+# Minimal galaxy.yml for a playbook project for tools to recognize this as a collection
+
+namespace: "ultra_collection_namespace"
+name: "ultra_collection"
+readme: README.md
+version: 0.0.1
+authors:
+  - your name <example@domain.com>
+
+description: Collection for ultra_collection_namespace.ultra_collection playbook project
+license: ["GPL-3.0-or-later"]
+# TO-DO: update the tags based on your content type
+tags: ["tools"]
+repository: NA

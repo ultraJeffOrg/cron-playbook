@@ -1,0 +1,16 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: ultra_collection_namespace.ultra_collection
+  tags:
+    - ansible
+    - playbook
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+    github.com/project-slug: ultraJeffOrg/cron-playbook
+spec:
+  type: playbook-project
+  system: system:default/utilities
+  lifecycle: production
+  owner: user:default/admin
